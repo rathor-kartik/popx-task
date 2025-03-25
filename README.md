@@ -2,7 +2,7 @@
 This project is a pixel-perfect implementation of the given Adobe XD design using React.js and Tailwind CSS. It features a mobile app interface centered on the webpage, smooth navigation, and a clean, responsive UI.
 
 🚀 Live Demo
-🔗 View Deployed Project ()
+🔗 View Deployed Project (https://popxkartik.netlify.app/)
 
 🔹 Features
 ✅ Fully responsive UI (Pixel-perfect design)
@@ -24,31 +24,19 @@ Hosting:  Netlify
 Follow these steps to run the project locally:
 
 
-# Clone the repository
-git clone https://github.com/your-username/qualifier-task.git
+1. Clone the repository using `git clone`
+git clone https://github.com/rathor-kartik/popx-task.git
 
-# Navigate to the project directory
+2. Navigate to the project directory
 cd qualifier-task
 
-# Install dependencies
+3. Install dependencies
 npm install
 
-# Start the development server
+4. Start the development server
 npm run dev   # Or npm start if using Create React App
 The app should now be running at http://localhost:3000 (or another port ).
 
-📁 Project Structure
-
-qualifier-task/
-│-- src/
-│   ├── pages/         # Page components
-│   ├── assets/        # Images and icons
-│   ├── App.tsx        # Main app component
-│   ├── main.tsx       # Entry point
-│-- public/            # Static files
-│-- package.json       # Project dependencies
-│-- tailwind.config.js # Tailwind configuration
-│-- vite.config.js     # Vite configuration (if using Vite)
 
 
 🤝 Connect with Me
